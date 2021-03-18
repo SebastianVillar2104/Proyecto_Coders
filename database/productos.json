@@ -1,0 +1,8 @@
+{
+  "productos":[
+      {"nombre":"coca-cola", "precio":100, "descuento":10},
+      {"nombre":"fernet", "precio":480, "descuento":25},
+      {"nombre":"hielo", "precio":200, "descuento":20}      
+  ]
+}
+
